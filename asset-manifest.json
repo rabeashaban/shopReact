@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee9600ca.css",
+    "main.js": "/static/js/main.6d12c82f.js",
+    "static/js/453.50719ee5.chunk.js": "/static/js/453.50719ee5.chunk.js",
+    "static/media/bg-image-26.jpg": "/static/media/bg-image-26.d36bf993fdfd74922b46.jpg",
+    "static/media/product-8.jpg": "/static/media/product-8.c996556653824455bd29.jpg",
+    "static/media/product-5.jpg": "/static/media/product-5.f262491e3f3c2f728d1b.jpg",
+    "static/media/logo.png": "/static/media/logo.e3fefecf98d8b4863589.png",
+    "static/media/product-1.jpg": "/static/media/product-1.ea4b9d27fb989232c072.jpg",
+    "static/media/nancy-chair.png": "/static/media/nancy-chair.f5d2a2c7af22897c4d55.png",
+    "static/media/product-4.jpg": "/static/media/product-4.f90e59c6757f17ec8dc1.jpg",
+    "static/media/table-wood-pine.png": "/static/media/table-wood-pine.641bf34c01823071721c.png",
+    "static/media/art-deco-home.png": "/static/media/art-deco-home.7c2e44d52d5a442f6655.png",
+    "static/media/Blog3.jpg": "/static/media/Blog3.389db914fb92c5d12ac5.jpg",
+    "static/media/Blog2.jpg": "/static/media/Blog2.900bc7c5d4a6f70577c8.jpg",
+    "static/media/product-3.jpg": "/static/media/product-3.cd22718ada42fdac5784.jpg",
+    "static/media/product-2.jpg": "/static/media/product-2.e2d80007615566902e19.jpg",
+    "static/media/300x300 (1).jpg": "/static/media/300x300 (1).2ea03d2644ec516fa10a.jpg",
+    "static/media/Blog1.jpg": "/static/media/Blog1.06bdc83fae36cf3060ea.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.ee9600ca.css.map": "/static/css/main.ee9600ca.css.map",
+    "main.6d12c82f.js.map": "/static/js/main.6d12c82f.js.map",
+    "453.50719ee5.chunk.js.map": "/static/js/453.50719ee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee9600ca.css",
+    "static/js/main.6d12c82f.js"
+  ]
+}
